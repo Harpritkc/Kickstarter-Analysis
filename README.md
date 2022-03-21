@@ -21,3 +21,5 @@ which month is best for lunch and and the budget for each month can be laied out
 Some time dataset is irrelevent to the present time of the requirements so have to make adjustments depending on the circumsantces or present situations
 - What are some other possible tables and/or graphs that we could create?
 We can create the sum of pledge by country, outcome, subcatergery of parent categery, particular musicals, play or theraters and many other tables or graphs depending on any chategery we can pick
+![parent category](https://github.com/Harpritkc/kickstarter-analysis/blob/main/Parent%20Category.png)
+(
