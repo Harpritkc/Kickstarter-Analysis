@@ -27,4 +27,6 @@ We can create the sum of pledge by country, outcome, subcatergery of parent cate
 ![Theater_Outcomes_vs_Launch](https://github.com/Harpritkc/kickstarter-analysis/blob/main/launch%20date%20for%20theater.png)
 ![Outcomes_vs_Goals](https://github.com/Harpritkc/kickstarter-analysis/blob/main/outcomes_vs_goals.png)
 [kickstarter](https://github.com/Harpritkc/kickstarter-analysis/upload/main)
+{Kickstarter_challenger](https://github.com/Harpritkc/kickstarter-analysis/blob/main/Successful%20US%20Kickstarters.zip)
+
 ------
