@@ -23,6 +23,6 @@ Some time dataset is irrelevent to the present time of the requirements so have 
 We can create the sum of pledge by country, outcome, subcatergery of parent categery, particular musicals, play or theraters and many other tables or graphs depending on any chategery we can pick
 ![parent category](https://github.com/Harpritkc/kickstarter-analysis/blob/main/Parent%20Category.png)
 ![line Chart](https://github.com/Harpritkc/kickstarter-analysis/blob/main/Line%20chart%20based%20on%20lunched%20date.png)
-![
+![launch date for theater](https://github.com/Harpritkc/kickstarter-analysis/blob/main/launch%20date%20for%20theater.png)
 [kickstarter](https://github.com/Harpritkc/kickstarter-analysis/blob/main/data-1-1-3-StarterBook.zip)
 ------
